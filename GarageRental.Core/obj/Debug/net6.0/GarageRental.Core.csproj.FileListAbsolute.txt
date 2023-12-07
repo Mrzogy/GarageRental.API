@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\GarageRental.Core\bin\Debug\net6.0\GarageRental.Core.deps.json
+C:\Users\user\source\repos\GarageRental.Core\bin\Debug\net6.0\GarageRental.Core.dll
+C:\Users\user\source\repos\GarageRental.Core\bin\Debug\net6.0\GarageRental.Core.pdb
+C:\Users\user\source\repos\GarageRental.Core\obj\Debug\net6.0\GarageRental.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GarageRental.Core\obj\Debug\net6.0\GarageRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\GarageRental.Core\obj\Debug\net6.0\GarageRental.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GarageRental.Core\obj\Debug\net6.0\GarageRental.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\GarageRental.Core\obj\Debug\net6.0\GarageRental.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GarageRental.Core\obj\Debug\net6.0\GarageRental.Core.dll
+C:\Users\user\source\repos\GarageRental.Core\obj\Debug\net6.0\refint\GarageRental.Core.dll
+C:\Users\user\source\repos\GarageRental.Core\obj\Debug\net6.0\GarageRental.Core.pdb
+C:\Users\user\source\repos\GarageRental.Core\obj\Debug\net6.0\ref\GarageRental.Core.dll
